@@ -1,2 +1,2 @@
 # test-repo
-Testing repo creatoin in GitHub
+Testing repo creation in GitHub
